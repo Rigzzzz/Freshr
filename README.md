@@ -1,7 +1,8 @@
 # Freshr
 Simple optimal time prediction for push notifications
 
-To make it work you need to run the script from a python 3 environment having Numpy and Pandas libraries installed.
+To make it work you need to run the script from a python 3 environment (this script was tested using python 3.5) 
+having Numpy and Pandas libraries installed.
 
 Simply run the following command:
 
